@@ -29,7 +29,7 @@ def get_list(data_root):
                 )
 
 def main(data_root):
-    with open('data_preview.md', 'w') as f:
+    with open('图片与段子汇总.md', 'w') as f:
         f.write('\n\n'.join([text for text in get_list(data_root)]))
 
 
