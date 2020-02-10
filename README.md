@@ -3,7 +3,7 @@
 2019 新冠疫情。段子、图片、视频
 
 ```bash
-$ tree -N 图片视频素材/ > README.md
+$ tree -N 图片视频素材/ >> README.md
 ```
 
 ```bash
